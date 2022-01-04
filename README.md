@@ -1,5 +1,5 @@
 ## 안녕하세요 현재 (주)아웃핏랩에서 CTO를 맡고 있는 개발자 wooiron 입니다!
-
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wooiron)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **wooiron/wooiron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

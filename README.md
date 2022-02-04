@@ -47,6 +47,6 @@ STYLE RECIPE
 
 ### state
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooiron&count_private=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooiron&langs_count=8&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooiron&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooiron&count_private=truelangs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <br/>

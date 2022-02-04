@@ -47,5 +47,5 @@ STYLE RECIPE
 
 ### state
 
-![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooiron&show_icons=true&theme=radical)
+![여러분's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooiron&show_icons=true&theme=radical&count_private=true)
 <br/>

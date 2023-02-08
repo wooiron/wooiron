@@ -1,4 +1,4 @@
-## 안녕하세요 현재 (주)아웃핏랩에서 CTO를 맡고 있는 FULL STACK 개발자 wooiron 입니다!
+## 안녕하세요 FULL STACK 개발자 wooiron 입니다!
 
 ### 현재 개발중이에요!
 

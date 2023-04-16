@@ -1,10 +1,5 @@
 ## 안녕하세요 FULL STACK 개발자 wooiron 입니다!
 
-### 현재 개발중이에요!
-
-STYLE RECIPE
-<br/>
-링크 : http://onelink.to/vc6hkv
 
 ###  TECH STACK
 

@@ -39,9 +39,3 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woo2771685)](https://solved.ac/woo2771685/)
 </br>
-
-### state
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooiron&count_private=true&theme=radical&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooiron&count_private=truelangs_count=8&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
